@@ -80,7 +80,7 @@ After completing this tutorial, you should be able to:
 - Hugging Face Datasets
 - scikit-learn
 - Jupyter Notebook
-To brush up on your Python knowledge, you can use the following tutorials:
+- To brush up on your Python knowledge, you can use the following tutorials:
 https://www.w3schools.com/python/
 https://www.youtube.com/watch?v=VchuKL44s6E.
 ---
