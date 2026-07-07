@@ -80,7 +80,9 @@ After completing this tutorial, you should be able to:
 - Hugging Face Datasets
 - scikit-learn
 - Jupyter Notebook
-
+To brush up on your Python knowledge, you can use the following tutorials:
+https://www.w3schools.com/python/
+https://www.youtube.com/watch?v=VchuKL44s6E.
 ---
 
 ## Further Reading
@@ -101,21 +103,29 @@ After completing this tutorial, you should be able to:
 **Evo 2** demonstrates the use of **mechanistic interpretability** to understand biological features learned by genomic foundation models.
 
 - Paper: https://doi.org/10.1038/s41586-026-10176-5
+        
+        
 - Mechanistic Interpretability Glossary: https://www.neelnanda.io/mechanistic-interpretability/glossary
 
 **GENA-LM** applies **Integrated Gradients** for token attribution, providing an alternative approach to the attribution methods demonstrated in the hands-on exercises.
 
 - https://doi.org/10.1093/nar/gkae1310
+        
+        
 
 ### Embeddings
 
 **AlphaGenome** discusses how learned sequence embeddings can be extracted and utilized for downstream genomics tasks.
 
 - https://doi.org/10.1038/s41586-025-10014-0
+        
+        
 
 **Nucleotide Transformer** explores multiple strategies for pooling and processing embeddings for downstream prediction tasks.
 
 - https://doi.org/10.1038/s41592-024-02523-z
+        
+        
 
 ---
 
