@@ -18,7 +18,7 @@ This repository accompanies a hands-on tutorial introducing genomic LLMs, coveri
 ├── Guided Hands-On/             # Step-by-step notebooks used during the tutorial
 ├── Workshop/                    # Independent exercises and solutions
 ├── InstaDeepAI_ntv3_tutorials/  # Official Nucleotide Transformer v3 examples
-├── nucleotide_transformer_dna_sequence_modelling_with_peft.ipynb
+├── nucleotide_transformer_dna_sequence_modelling_with_peft.ipynb #LoRA
 └── README.md
 ```
 
@@ -33,7 +33,7 @@ The lecture slides introduce the theoretical foundations of genomic foundation m
 - Genomic foundation models
 - Model embeddings and interpretability
 
-### Guided Hands-On
+### Guided Hands-On [link](https://github.com/meghegde/genomic-llms-in-practice/tree/main)
 
 Follow the notebooks sequentially to learn how to:
 
@@ -53,7 +53,7 @@ The workshop contains practical exercises where participants will:
 - Perform inference
 - Evaluate model performance
 
-### InstaDeepAI_ntv3_tutorials
+### InstaDeepAI_ntv3_tutorials [link](https://huggingface.co/spaces/InstaDeepAI/ntv3/tree/main/notebooks_tutorials)
 
 Additional example notebooks provided by InstaDeep demonstrating the capabilities of **Nucleotide Transformer v3**.
 
